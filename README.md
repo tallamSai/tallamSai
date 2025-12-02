@@ -85,8 +85,8 @@ I enjoy learning new technologies and building unique, impactful projects.
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tallamSai&theme=dark&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tallamSai&theme=dark&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tallamsai&theme=dark&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tallamsai&theme=dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tallamSai&theme=dark&hide_border=false&langs_count=10"/>
