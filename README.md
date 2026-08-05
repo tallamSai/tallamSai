@@ -42,13 +42,10 @@ I'm a curious builder who likes connecting **software, hardware and intelligence
 
 ## 🎮 Current Quests
 
-- 🌌 Currently forging **Vespera** and **ZAP**—turning ambitious ideas into systems with their own identity, purpose and engineering language
-- 🧠 Designing agentic AI that can **interpret intent, orchestrate tools and transform natural language into executable systems**
-- ⚡ Exploring edge intelligence where machines can **sense, reason and adapt close to the hardware**, without waiting for the cloud
-- 🛰️ Connecting embedded devices, real-time data and cloud intelligence into responsive cyber-physical experiences
-- 🪄 Building interfaces that make deeply technical systems feel intuitive, alive and almost effortless to use
-- 🧬 Experimenting with software that behaves less like a static application and more like an evolving digital organism
-- 🚩 Finding flags, bending protocols, shipping unusual experiments and growing the GitGarden one commit at a time 🌱
+- 🌌 Forging **Vespera** and **ZAP**
+-  Designing agentic AI that can **interpret intent, orchestrate tools and transform natural language into secure executable workflows**
+-  Exploring application security, vulnerability analysis, protocol behavior and defensive engineering through hands-on experimentation
+- 🚩 Solving CTF challenges with **0NLY_FL4G$**, breaking assumptions, finding flags and turning every exploit into a deeper understanding of systems
 
 ---
 
