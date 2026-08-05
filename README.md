@@ -47,6 +47,8 @@ I'm a curious builder who likes connecting **software, hardware and intelligence
 -  Exploring application security, vulnerability analysis, protocol behavior and defensive engineering through hands-on experimentation
 - 🚩 Solving CTF challenges with **0NLY_FL4G$**, breaking assumptions, finding flags and turning every exploit into a deeper understanding of systems
 
+![Pixel aircraft flying over a circuit-board skyline](./pixel-aircraft-divider.gif)
+
 ---
 
 ## 🛠️ Focused Tech Stack
