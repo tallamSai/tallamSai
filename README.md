@@ -200,6 +200,13 @@ I enjoy learning new technologies and building unique, impactful projects.
 
 ### 🔐 Cybersecurity
 
+- 🚩 CTF Team: **0NLY_FL4G$ — Flagging it always**
+- Capture the Flag competitions
+- Web and application security
+- Security-focused problem-solving
+- Vulnerability analysis
+- Secure development practices
+
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-20232A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![CTF](https://img.shields.io/badge/Capture_The_Flag-20232A?style=for-the-badge&logo=tryhackme&logoColor=C11111)
 
