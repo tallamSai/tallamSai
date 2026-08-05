@@ -1,3 +1,4 @@
+```markdown
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h1><b>Hi there, I'm </b><a href="https://github.com/tallamSai">Sai Tallam</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
@@ -6,7 +7,7 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> ***About me***
 
-<img align="right" width=200px alt="Hacker gif" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width="200px" alt="Hacker gif" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
 I am a **Computer Science** student passionate about software development and problem-solving.  
 Currently expanding my skills in both **front-end** and **back-end** development.  
@@ -29,7 +30,6 @@ I enjoy learning new technologies and building unique, impactful projects.
     </a>
 </div>
 
-
 <br>
 
 <!-- Social Links -->
@@ -48,8 +48,6 @@ I enjoy learning new technologies and building unique, impactful projects.
 ### 🧩 Languages & Syntax:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<img align="right" width=310px src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
 
 ### 🎨 Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -73,25 +71,4 @@ I enjoy learning new technologies and building unique, impactful projects.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-<br><br>
-
----
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> ***GitHub Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tallamsai&theme=dark&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tallamsai&theme=dark&hide_border=false" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tallamSai&theme=dark&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
-</p>
-
+```
