@@ -20,12 +20,9 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> <b>About me</b>
 
-<img
-  align="right"
-  width="200"
-  alt="Hacker animation"
-  src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"
->
+🎌 **Tallam Sri Sai Subramanyam | Planes | Software | Cloud | IoT | Embedded | AI/ML | Software | Cyber Security | BlockChain |**  
+📍 **Location:** Bengaluru, India 🇮🇳  
+🎓 **Uni:** Computer Science Engineering @ RVCE |
 
 I am a **Computer Science** student passionate about software development and problem-solving.  
 Currently expanding my skills in both **front-end** and **back-end** development.  
