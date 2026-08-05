@@ -72,90 +72,124 @@ I enjoy learning new technologies and building unique, impactful projects.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Skills & Technologies
+### 🖥️ Operating Systems
 
-### 🧩 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-E34A26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DD0031)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### 🏗️ Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Django](https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=44B78B)
-![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-20232A?style=for-the-badge&logo=fastapi&logoColor=009688)
-![BPMN 2.0](https://img.shields.io/badge/BPMN_2.0-20232A?style=for-the-badge&logoColor=white)
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![OpenCV](https://img.shields.io/badge/OpenCV-20232A?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![Pandas](https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-20232A?style=for-the-badge&logo=numpy&logoColor=4D77CF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-20232A?style=for-the-badge&logo=python&logoColor=4C72B0)
-![Jupyter](https://img.shields.io/badge/Jupyter-20232A?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Llama 3.1](https://img.shields.io/badge/Llama_3.1-20232A?style=for-the-badge&logo=meta&logoColor=0668E1)
-![Groq API](https://img.shields.io/badge/Groq_API-20232A?style=for-the-badge&logoColor=F55036)
-![Ollama](https://img.shields.io/badge/Ollama-20232A?style=for-the-badge&logo=ollama&logoColor=white)
-
-
-### ⛓️ Web3 & Decentralized Technologies
-
-![Ethereum](https://img.shields.io/badge/Ethereum-20232A?style=for-the-badge&logo=ethereum&logoColor=8C8C8C)
-![MetaMask](https://img.shields.io/badge/MetaMask-20232A?style=for-the-badge&logo=metamask&logoColor=F6851B)
-![IPFS](https://img.shields.io/badge/IPFS-20232A?style=for-the-badge&logo=ipfs&logoColor=65C2CB)
-![Pinata](https://img.shields.io/badge/Pinata-20232A?style=for-the-badge&logo=ipfs&logoColor=6D57FF)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-20232A?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### 🗄️ Databases & Storage
-
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![IPFS](https://img.shields.io/badge/IPFS_Storage-20232A?style=for-the-badge&logo=ipfs&logoColor=65C2CB)
-
-### ☁️ Cloud, DevOps & Deployment
-
-![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=for-the-badge&logo=github-actions&logoColor=2088FF)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-20232A?style=for-the-badge&logo=icloud&logoColor=3693F3)
-
-### 🔐 Cybersecurity
-
-- Capture the Flag competitions
-- Web and application security
-- Security-focused problem-solving
-- Vulnerability analysis
-- Secure development practices
-
-### ⚒️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Linux](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=FCC624)
+![macOS](https://img.shields.io/badge/macOS-20232A?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows&logoColor=0078D6)
 
-### 💻 IDEs & Development Environments
+### 🧩 Additional Languages & Computing Platforms
 
-![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-20232A?style=for-the-badge&logo=visual-studio&logoColor=9B4F96)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-20232A?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-20232A?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![C#](https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=csharp&logoColor=9B4F96)
+![Flutter](https://img.shields.io/badge/Flutter-Intermediate-20232A?style=for-the-badge&logo=flutter&logoColor=02569B)
+![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-20232A?style=for-the-badge&logoColor=F37626)
+
+### 🔌 Embedded Systems & Hardware Platforms
+
+![STM32](https://img.shields.io/badge/STM32-20232A?style=for-the-badge&logo=stmicroelectronics&logoColor=03234B)
+![ESP32](https://img.shields.io/badge/ESP32-20232A?style=for-the-badge&logo=espressif&logoColor=E7352C)
+![ESP8266](https://img.shields.io/badge/ESP8266-20232A?style=for-the-badge&logo=espressif&logoColor=E7352C)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-20232A?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-20232A?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
+![Arduino](https://img.shields.io/badge/Arduino-20232A?style=for-the-badge&logo=arduino&logoColor=00878F)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-20232A?style=for-the-badge&logoColor=white)
+
+- Microcontroller programming and hardware integration
+- Embedded system prototyping and debugging
+- Sensor, actuator, and peripheral integration
+- Edge computing using NVIDIA Jetson and Raspberry Pi
+- Arduino, ESP, and STM32-based application development
+
+### 📡 Communication Protocols
+
+![I2C](https://img.shields.io/badge/I2C-20232A?style=for-the-badge&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-20232A?style=for-the-badge&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN_Bus-20232A?style=for-the-badge&logoColor=white)
+![RS485](https://img.shields.io/badge/RS485-20232A?style=for-the-badge&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-20232A?style=for-the-badge&logoColor=00A1E0)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-20232A?style=for-the-badge&logo=wifi&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-20232A?style=for-the-badge&logo=bluetooth&logoColor=0082FC)
+![BLE](https://img.shields.io/badge/Bluetooth_LE-20232A?style=for-the-badge&logo=bluetooth&logoColor=0082FC)
+
+### 🌐 Networking, Databases & IoT Protocols
+
+![WebSockets](https://img.shields.io/badge/WebSockets-20232A?style=for-the-badge&logo=socketdotio&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-20232A?style=for-the-badge&logo=fastapi&logoColor=009688)
+![MQTT](https://img.shields.io/badge/MQTT-20232A?style=for-the-badge&logo=mqtt&logoColor=660066)
+![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-20232A?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+
+- Real-time bidirectional communication with WebSockets
+- RESTful API design and integration
+- MQTT-based IoT messaging
+- SQL database design and queries
+- Cloud-connected embedded and IoT applications
+- Firebase and Supabase application integration
+
+### 🛩️ Power Electronics & Control Systems
+
+- **Electric motors:** Brushless motors, FOC, ESCs, brushed motors, servos, and stepper motors
+- **Battery systems:** LiPo and Li-ion batteries
+- **Flight systems:** Flight controllers and propulsion-system integration
+- **Switching systems:** Relays, electronic switches, and switching methods
+- **Motor control:** Speed, position, and motion-control concepts
+- **Power management:** Battery integration, power distribution, and system safety
+- **Simulation:** Unity-based system simulation and visualization
+
+### 🛠️ CAD, Design & Engineering Tools
+
+![Autodesk Fusion](https://img.shields.io/badge/Autodesk_Fusion-20232A?style=for-the-badge&logo=autodesk&logoColor=FF6B00)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-20232A?style=for-the-badge&logo=dassaultsystemes&logoColor=E31837)
+![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-20232A?style=for-the-badge&logo=latex&logoColor=008080)
+![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+### 🔧 Practical Engineering Skills
+
+- Soldering and electronic circuit assembly
+- PCB and hardware troubleshooting
+- Hand-tool operation
+- Power-tool operation
+- Basic machining and mechanical fabrication
+- Electronic component testing
+- Prototype assembly and integration
+- Hardware debugging and repair
+- Mechanical and electrical system integration
+
+### 🧠 Software, Computer Vision & AI Concepts
+
+![OpenCV](https://img.shields.io/badge/OpenCV-20232A?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-20232A?style=for-the-badge&logo=meta&logoColor=0668E1)
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
+
+- Computer vision and image processing
+- Large language model integration
+- AI-powered application development
+- Version control and collaborative development
+- Embedded computer vision
+- Edge AI and real-time inference
+- Hardware-software co-design
+
+### 🎨 UI Development & Product Design
+
+![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-20232A?style=for-the-badge&logo=daisyui&logoColor=5A0EF8)
+
+- Responsive interface development
+- Component-based UI design
+- Wireframing and prototyping
+- Design-system implementation
+- Accessible and reusable interface components
 
 ## ✨ Thanks for visiting my profile!
 
