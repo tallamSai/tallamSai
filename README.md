@@ -2,9 +2,9 @@
 
 # Hi, I'm Sai Tallam 👋
 
-### Computer Science Engineer building across software, embedded systems and intelligent machines
+### I build where code meets circuits, clouds and intelligent machines
 
-📍 **Bengaluru, India** · 🎓 **Computer Science Engineering @ RVCE (2023–2027)**  
+📍 **Bengaluru, India** · 🎓 **Computer Science Engineering @ RVCE**  
 ✈️ **Aviation** · 💻 **Software** · ☁️ **Cloud** · 🔌 **IoT & Embedded** · 🤖 **AI/ML** · 🔐 **Cybersecurity** · ⛓️ **Blockchain**
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wht10089@gmail.com)
@@ -18,28 +18,35 @@
 
 ## ⚡ About Me
 
-I'm a Computer Science Engineering student interested in the point where **software meets hardware**. I enjoy building full-stack products, intelligent workflows, embedded systems and experimental interfaces that turn ambitious ideas into working prototypes.
+I'm a curious builder who likes connecting **software, hardware and intelligence**. My GitHub is where experiments become prototypes, strange ideas get commits and every repository teaches me something new.
 
-- 🔭 Building across **AI workflows, embedded systems and full-stack products**
-- 🌱 Currently deepening **Angular, TypeScript and system design**
-- ✈️ Vice-lead for Web Development at **Team Vyoma**, working around aviation projects
-- 🧩 Core Team Member at the **ACM Student Chapter, RVCE**
+- 🔭 Tinkering with **AI workflows, embedded systems and full-stack products**
+- 🌱 Leveling up in **Angular, TypeScript and system design**
+- ✈️ Fascinated by aviation, autonomous systems and machines that move
 - 🚩 CTF player with **0NLY_FL4G$ — Flagging it always**
-- 🤝 Open to research, open-source and engineering collaborations
-- 🎮 Beyond code: aviation, gaming and fitness
+- 🧪 Favorite loop: **imagine → prototype → break → debug → improve → ship**
+- 🤝 Always open to creative open-source and engineering collaborations
 
 <br clear="right">
 
 ---
 
-## 🚀 Featured Projects
+## 🌌 My Developer Universe
 
-| Project | What I Built | Core Stack |
-|---|---|---|
-| **Samsung PRISM — AI Workflow Builder** | Natural-language BPMN 2.0 designer that generates executable workflows, APIs, pages, schemas and Docker configurations. | .NET 9, React 18, Python, Groq, Ollama |
-| **Neural Interface System** | EEG analysis pipeline that decodes emotional patterns and adapts lighting, soundscapes and content in real time. | Python, ML, EEG/BCI, signal analysis |
-| **Web3 Music Platform** | Decentralized streaming platform with smart-contract ownership, royalties, wallet login and IPFS storage. | React, Node.js, Ethereum, MetaMask, Pinata |
-| **Plant Disease Detection** | CNN-based leaf-image classifier with data augmentation, model tuning and visual analysis. | TensorFlow, OpenCV, Pandas, Matplotlib |
+| 💻 Build | 🔌 Connect | 🤖 Think | 🔐 Break |
+|:---:|:---:|:---:|:---:|
+| Web apps and APIs | Sensors and devices | AI and computer vision | CTFs and security |
+| Interfaces and tools | Edge and IoT systems | Agents and automation | Find, understand, fix |
+
+---
+
+## 🎮 Current Quests
+
+- Create AI systems that can **reason, call tools and build useful workflows**
+- Make embedded devices feel less like hardware demos and more like real products
+- Explore edge intelligence using **Jetson, Raspberry Pi and microcontrollers**
+- Build interfaces that make complicated systems simple to understand
+- Keep finding flags, shipping experiments and growing the GitGarden 🌱
 
 ---
 
@@ -100,22 +107,22 @@ I'm a Computer Science Engineering student interested in the point where **softw
 
 ## 🔐 Cybersecurity
 
-🚩 **CTF Team:** 0NLY_FL4G$ — *Flagging it always*
+🚩 Running with **0NLY_FL4G$ — Flagging it always**
 
-- 🥇 1st Place — CMRIT CTF
-- 🥉 3rd Place — IIIT Bangalore Synergy CTF
-- 🥉 3rd Place — PB CTF
+I enjoy CTFs, web security and the satisfying moment when a strange bug finally turns into a flag.
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-20232A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![CTF](https://img.shields.io/badge/Capture_The_Flag-20232A?style=for-the-badge&logo=tryhackme&logoColor=C11111)
 
 ---
 
-## 🧭 Beyond the Code
+## 🤝 Let's Build Something
 
-- **ACM Student Chapter, RVCE** — Core Team Member organizing technical events and workshops
-- **Team Vyoma** — Vice-lead for Web Development, collaborating on aviation-focused projects
-- **Hands-on engineering** — CAD, soldering, electronics, motor control and rapid prototyping
+I'm especially interested in repositories involving:
+
+`AI agents` · `developer tools` · `embedded systems` · `IoT` · `computer vision` · `aviation tech` · `cybersecurity`
+
+If an idea sounds slightly ambitious, unusually technical or just fun to build, I probably want to hear about it.
 
 ---
 
