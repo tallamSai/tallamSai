@@ -1,3 +1,73 @@
+<p align="center">
+  <a href="https://github.com/tallamSai">
+    <img
+      src="./tallamsai-gitgarden.gif"
+      width="900"
+      alt="Tallam Sai's GitGarden"
+    >
+  </a>
+</p>
+
+
+<h1>
+  <b>Hi there, I'm </b>
+  <a href="https://github.com/tallamSai">Sai Tallam</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
+
+
+<br>
+
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> <b>About me</b>
+
+🎌 **Tallam Sri Sai Subramanyam | Planes | Software | Cloud | IoT | Embedded | AI/ML | Software | Cyber Security | BlockChain |**  
+📍 **Location:** Bengaluru, India 🇮🇳  
+🎓 **Uni:** Computer Science Engineering @ RVCE |
+
+I am a **Computer Science** student passionate about software development and problem-solving.  
+Currently expanding my skills in both **front-end** and **back-end** development.  
+I enjoy learning new technologies and building unique, impactful projects.
+
+- 📚 I'm currently learning:
+  - Angular
+  - TypeScript
+- 🚀 I love working on new and exciting projects.
+- ✔️ Always open to help—ask me anything!
+- 🎮 Outside tech: Gaming, Fitness 🏋️, and spending time with friends.
+- 📫 Reach me at: **wht10089@gmail.com**
+
+<br>
+
+<!-- Social links -->
+<div align="center">
+  <a href="mailto:wht10089@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black"
+      alt="Gmail"
+    >
+  </a>
+  <a href="https://www.linkedin.com/in/tallamsrisai/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black"
+      alt="LinkedIn"
+    >
+  </a>
+  <a href="https://www.instagram.com/_sai_57/">
+    <img
+      src="https://img.shields.io/badge/Instagram-%2312100E.svg?style=for-the-badge&logo=instagram&logoColor=white&color=black"
+      alt="Instagram"
+    >
+  </a>
+  <a href="https://x.com/SrisaiTall21409">
+    <img
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black"
+      alt="X/Twitter"
+    >
+  </a>
+</div>
+
+<br>
+
 ## 🛠️ Skills & Technologies
 
 ### 🖥️ Operating Systems
@@ -132,3 +202,9 @@
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-20232A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![CTF](https://img.shields.io/badge/Capture_The_Flag-20232A?style=for-the-badge&logo=tryhackme&logoColor=C11111)
+
+## ✨ Thanks for visiting my profile!
+
+I'm always open to learning, collaborating, and discussing interesting ideas.
+
+Feel free to explore my repositories or connect with me!
