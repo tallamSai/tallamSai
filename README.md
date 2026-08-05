@@ -18,6 +18,8 @@
 
 <br>
 
+<img align="right" width="320" alt="Pikachu waving and saying Hi" src="./pikachu-hi-animated-black.gif">
+
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> <b>About me</b>
 
 🎌 **Tallam Sri Sai Subramanyam | Planes | Software | Cloud | IoT | Embedded | AI/ML | Software | Cyber Security | BlockChain |**  
@@ -35,6 +37,8 @@ I enjoy learning new technologies and building unique, impactful projects.
 - ✔️ Always open to help—ask me anything!
 - 🎮 Outside tech: Gaming, Fitness 🏋️, and spending time with friends.
 - 📫 Reach me at: **wht10089@gmail.com**
+
+<br clear="right">
 
 <br>
 
