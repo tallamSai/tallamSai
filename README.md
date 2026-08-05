@@ -114,17 +114,6 @@ I enjoy learning new technologies and building unique, impactful projects.
 ![Groq API](https://img.shields.io/badge/Groq_API-20232A?style=for-the-badge&logoColor=F55036)
 ![Ollama](https://img.shields.io/badge/Ollama-20232A?style=for-the-badge&logo=ollama&logoColor=white)
 
-### 🧠 Machine Learning Concepts
-
-- Convolutional Neural Networks
-- Image classification and computer vision
-- Data preprocessing and augmentation
-- Model training and evaluation
-- Hyperparameter tuning
-- Generative AI and large language models
-- AI tool-calling architecture
-- Local and cloud-based AI inference
-- EEG and brain-computer interface data analysis
 
 ### ⛓️ Web3 & Decentralized Technologies
 
