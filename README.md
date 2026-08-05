@@ -23,7 +23,6 @@
 🎌 **Tallam Sri Sai Subramanyam | Planes | Software | Cloud | IoT | Embedded | AI/ML | Software | Cyber Security | BlockChain |**  
 📍 **Location:** Bengaluru, India 🇮🇳  
 🎓 **Uni:** Computer Science Engineering @ RVCE |
-![Pikachu saying Hi](./pikachu-hi-official-sticker.png)
 
 I am a **Computer Science** student passionate about software development and problem-solving.  
 Currently expanding my skills in both **front-end** and **back-end** development.  
