@@ -42,11 +42,13 @@ I'm a curious builder who likes connecting **software, hardware and intelligence
 
 ## 🎮 Current Quests
 
-- Create AI systems that can **reason, call tools and build useful workflows**
-- Make embedded devices feel less like hardware demos and more like real products
-- Explore edge intelligence using **Jetson, Raspberry Pi and microcontrollers**
-- Build interfaces that make complicated systems simple to understand
-- Keep finding flags, shipping experiments and growing the GitGarden 🌱
+- 🌌 Currently forging **Vespera** and **ZAP**—turning ambitious ideas into systems with their own identity, purpose and engineering language
+- 🧠 Designing agentic AI that can **interpret intent, orchestrate tools and transform natural language into executable systems**
+- ⚡ Exploring edge intelligence where machines can **sense, reason and adapt close to the hardware**, without waiting for the cloud
+- 🛰️ Connecting embedded devices, real-time data and cloud intelligence into responsive cyber-physical experiences
+- 🪄 Building interfaces that make deeply technical systems feel intuitive, alive and almost effortless to use
+- 🧬 Experimenting with software that behaves less like a static application and more like an evolving digital organism
+- 🚩 Finding flags, bending protocols, shipping unusual experiments and growing the GitGarden one commit at a time 🌱
 
 ---
 
