@@ -5,7 +5,7 @@
   <a href="https://github.com/tallamSai">Sai Tallam</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-
+![My GitGarden Sprite](https://gitgarden-production.up.railway.app/api/sprite/3b8d8272-74f8-4976-a74c-321acc1daeec)
 <br>
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> **About me**
