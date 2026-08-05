@@ -1,109 +1,169 @@
-<p align="center">
+<img
+  src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif"
+  width="100%"
+  alt="Animated divider"
+>
+
+<div align="center">
+
+# Hi, I'm Sai Tallam 👋
+
+### Computer Science Student · Full-Stack Developer · Problem Solver
+
+I enjoy transforming ideas into practical software and continuously exploring better ways to build for the web.
+
+<a href="mailto:wht10089@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  >
+</a>
+<a href="https://www.linkedin.com/in/tallamsrisai/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  >
+</a>
+<a href="https://www.instagram.com/_sai_57/">
+  <img
+    src="https://img.shields.io/badge/Instagram-Follow-black?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  >
+</a>
+<a href="https://x.com/SrisaiTall21409">
+  <img
+    src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white"
+    alt="X"
+  >
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/tallamSai">
     <img
       src="./tallamsai-gitgarden.gif"
       width="900"
-      alt="Tallam Sai's GitGarden"
-    >
-  </a>
-</p>
-
-
-<h1>
-  <b>Hi there, I'm </b>
-  <a href="https://github.com/tallamSai">Sai Tallam</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
-
-
-<br>
-
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> <b>About me</b>
-
-<img
-  align="right"
-  width="200"
-  alt="Hacker animation"
-  src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"
->
-
-I am a **Computer Science** student passionate about software development and problem-solving.  
-Currently expanding my skills in both **front-end** and **back-end** development.  
-I enjoy learning new technologies and building unique, impactful projects.
-
-- 📚 I'm currently learning:
-  - Angular
-  - TypeScript
-- 🚀 I love working on new and exciting projects.
-- ✔️ Always open to help—ask me anything!
-- 🎮 Outside tech: Gaming, Fitness 🏋️, and spending time with friends.
-- 📫 Reach me at: **wht10089@gmail.com**
-
-<br>
-
-<!-- Social links -->
-<div align="center">
-  <a href="mailto:wht10089@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black"
-      alt="Gmail"
-    >
-  </a>
-  <a href="https://www.linkedin.com/in/tallamsrisai/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black"
-      alt="LinkedIn"
-    >
-  </a>
-  <a href="https://www.instagram.com/_sai_57/">
-    <img
-      src="https://img.shields.io/badge/Instagram-%2312100E.svg?style=for-the-badge&logo=instagram&logoColor=white&color=black"
-      alt="Instagram"
-    >
-  </a>
-  <a href="https://x.com/SrisaiTall21409">
-    <img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black"
-      alt="X/Twitter"
+      alt="Tallam Sai's animated GitGarden"
     >
   </a>
 </div>
 
 <br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> <b>Skills</b>
+## 👨‍💻 About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+I'm a Computer Science student focused on developing reliable, useful, and thoughtfully designed software.
 
-### 🧩 Languages & Syntax
+- 🔭 Building projects across front-end and back-end development
+- 🌱 Currently expanding my knowledge of **Angular** and **TypeScript**
+- 🧠 Interested in software architecture, problem-solving, and developer tools
+- 🤝 Open to collaborating on interesting projects and open-source software
+- 💬 Always happy to discuss technology, development, and new ideas
+- 🎮 Away from code, I enjoy gaming, fitness, and spending time with friends
+- 📫 Reach me at **wht10089@gmail.com**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br>
 
-### 🎨 Frontend Development
+## 🚀 Current Focus
 
-![HTML5](https://img.shields.io/badge/html5-%23E34A26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Frontend Engineering</h3>
+      <p>
+        Creating responsive and maintainable interfaces with modern web
+        technologies.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Backend Development</h3>
+      <p>
+        Building APIs, application logic, and dependable integrations for
+        full-stack projects.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Continuous Learning</h3>
+      <p>
+        Improving my TypeScript, Angular, system-design, and software-engineering
+        skills.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Project Building</h3>
+      <p>
+        Turning ideas into real applications through experimentation and
+        iterative development.
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 🏗 Backend & Frameworks
+<br>
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+## 🛠️ Technical Skills
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34A26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DD0031)
+
+### Backend and Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-### 🗄 Database
+### Development Tools
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Windows](https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows&logoColor=0078D6)
 
-### ⚒️ Tools
+### IDEs
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-20232A?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-20232A?style=for-the-badge&logo=visual-studio&logoColor=9B4F96)
 
-### 💻 IDEs
+<br>
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+## 🤝 Let's Connect
+
+I'm interested in collaborating on meaningful projects, learning from other developers, and contributing to ideas that solve real problems.
+
+<div align="center">
+
+<a href="mailto:wht10089@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Start_a_Conversation-Email_Me-111111?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email Sai"
+  >
+</a>
+
+<br><br>
+
+**Thanks for visiting my profile.**
+
+<img
+  src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif"
+  width="100%"
+  alt="Animated divider"
+>
+
+</div>
